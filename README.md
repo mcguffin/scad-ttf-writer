@@ -1,3 +1,8 @@
+
+<p style="padding:10px 15px;color:#9c342e;background-color:#f7d9d7;border:1px solid #f2c4c2;">
+<strong>Note:</strong> OpenSCAD 2015.03 introduced the text() function, so this project has become obsolete and is only kept for historical reasons.
+</p>
+
 ##OpenSCAD Writer##
 
 Write an (extrudable) 2D Text in [OpenSCAD](http://www.openscad.org/).
